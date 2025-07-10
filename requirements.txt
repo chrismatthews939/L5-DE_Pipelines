@@ -1,0 +1,6 @@
+pandas
+nbconvert
+requests
+beautifulsoup4
+lxml
+pytz
